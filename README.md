@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 
 	
-![demo](https://raw.github.com/wiki/osyun0101/first_app/gif/sample.gif)
+![demo](https://github.com/osyun0101/first_app/blob/master/first_app.wiki/gif/sample.gif)
