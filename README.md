@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+	
+'![demo](https://raw.github.com/wiki/osyun0101/first_app/gif/sample.gif)' 
