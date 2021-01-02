@@ -3,4 +3,5 @@ Rails.application.routes.draw do
   get 'posts/new', to: 'posts#new'
   post 'posts', to: 'posts#create'
   get 'paiza', to: 'posts#paiza'
+  get 'birthday', to: 'posts#birth'
 end

@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+}
+
+.birth {
+  width: 100%;
+  background-color: #222222;
+  height: 100vh;
+}
+
+.content {
+  width: 100%;
+  padding: 100px 0;
+}
+
+.content p{
+  font-family: cursive;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  margin: 0;
+  text-shadow: 0 0 5px rgba(0,0,0,0.7);
+}
+
+.video-content {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.video-content p{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.catch {
+  width: 45%;
+  height: 600px;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  position: relative;
+}
+
+.catch img{
+  object-fit: cover;
+  height: 600px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.catch p{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  margin: auto;
+  font-size: 40px;
+  text-shadow: 0 0 5px rgba(0,0,0,1);
+}
+
+.univar {
+  width: 45%;
+  height: 600px;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  position: relative;
+}
+
+.univar img {
+  object-fit: cover;
+  height: 600px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.univar p{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  margin: auto;
+  font-size: 40px;
+  text-shadow: 0 0 5px rgba(0,0,0,1);
+}
